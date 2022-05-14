@@ -12,7 +12,7 @@ using System.Windows.Forms;
 using MathNet.Numerics;
 using ScottPlot;
 
-
+//DENEMEEE
 
 namespace YöneylemAraştırması3
 {

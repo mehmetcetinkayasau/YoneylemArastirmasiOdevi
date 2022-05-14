@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj": {}
+    "C:\\Users\\Mehmet\\Documents\\GitHub\\YoneylemArastirmasiOdevi\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj": {
+    "C:\\Users\\Mehmet\\Documents\\GitHub\\YoneylemArastirmasiOdevi\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet\\Documents\\GitHub\\YoneylemArastirmasiOdevi\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj",
         "projectName": "YöneylemAraştırması3",
-        "projectPath": "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj",
+        "projectPath": "C:\\Users\\Mehmet\\Documents\\GitHub\\YoneylemArastirmasiOdevi\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj",
         "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet\\Documents\\GitHub\\YoneylemArastirmasiOdevi\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
