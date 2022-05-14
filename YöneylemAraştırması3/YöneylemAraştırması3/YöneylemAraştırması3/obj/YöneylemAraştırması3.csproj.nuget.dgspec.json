@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj",
+        "projectName": "YöneylemAraştırması3",
+        "projectPath": "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\YöneylemAraştırması3.csproj",
+        "packagesPath": "C:\\Users\\Mehmet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehmet\\Desktop\\C#\\YöneylemAraştırması3\\YöneylemAraştırması3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mehmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "ScottPlot": {
+              "target": "Package",
+              "version": "[4.1.41, )"
+            },
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[4.1.41, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
